@@ -1,0 +1,5 @@
+data/
+*.pyc
+working_dir/
+working_dir_nolstm/
+.idea/
